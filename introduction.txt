@@ -1,0 +1,2 @@
+wstep do ksiazki
+zmiana 1
